@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <meta charset="utf-8">
+        <!--Attempt at doing up the page without touching CSS first -->
+        <title>A page about Tryndamere in HTML first then and CSS</title>
+        <!--insert linkref for CSS when confident :) -->
+    </head>
+    <body>
+        <main>
+            <h1>Tryndamere is the best</h1>
+                <section>
+                    <h2>Tryndamere Photos</h2>
+                        <p>See more in our gallery!</p>
+                        <a href="https://www.reddit.com/r/TryndamereMains/" target="_blank">Click here if you enjoy playing Tryndamere</a>
+                        <img src="https://cdn1.sixmorevodka.com/wp-content/uploads/2019/10/15111203/TRYNDAMERE-L01.jpg?webp=0" alt="Tryndamere amongst enemies">
+                        <!--Credits to SIXMOREVODKA-->
+                </section>
+                <section>
+                    <h2>Attributes List</h2>
+                    <h3>Strengths:</h3>
+                    <ul>
+                        <li>Great for melee experts with auto-attack prowess</li>
+                        <li>High Attack Speed, Attack Damage and Crit Chance</li>
+                        <li>Awesome mobility around Summoner's Rift</li>
+                    </ul>
+                    <figure>
+                    <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_18.jpg" alt="Nightbringer Tryndamere">
+                    <!--Credits to Riot Games (League of Legends)-->
+                    <figcaption>The Barbarian King as a <em>Nightbringer</em></figcaption>
+                    </figure>
+                </section>
+        </main>
+    </body>
+</html>
